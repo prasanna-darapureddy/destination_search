@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.destination-item {
+  width: 300px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+.image {
+  width: 100%;
+}
+.name {
+  font-family: 'Roboto';
+  color: #000000;
+  margin-top: 8px;
+}
